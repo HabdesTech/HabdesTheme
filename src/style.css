@@ -57,7 +57,7 @@ body {
 .FONDO {
     background: #1FA0EB;
 }
-.ONDAS {
+.themes_01_ONDAS {
     z-index: -1;
     opacity: 0.1;
     position: absolute;
