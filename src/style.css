@@ -1,0 +1,81 @@
+/* ESTILOS GENERALES */
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+body {
+    background-color:white;
+    color: black;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.logo-principal a {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    padding: 0 0 0 25%;
+    font-family: 'MuseoModerno', cursive;
+}
+
+.habdes-name  {
+    font-family: 'MuseoModerno', cursive;
+    font-weight: 200;
+    font-size: 100px;
+}
+
+
+.menu-desplegable h5{
+    font-size: 15px;
+    list-style: none;
+    color: rgb(139, 152, 168);
+}
+
+.boton_contacto {
+    width: 170px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    cursor: none;
+    transition: all 0.2s ease-in 0s;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    background: linear-gradient(98deg, rgb(48, 165, 102), rgb(0, 141, 135));
+}
+.BORRAR {
+    border: 3px solid black;;
+
+}
+.MODIFICADOR-1 {
+    z-index: 0;
+}
+
+
+/*----------------------------------CUERPO----------------------------------*/
+/*-----------------CUERPO-----------------*/
+
+
+.vista_previa {
+    background-color: #6f42c1;
+    outline: 0;
+}
+.btn {
+    display: inline-block;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+}
+
+
+/*----------------------------------Theme_02----------------------------------*/
+/*----------------------------------Theme_03----------------------------------*/
+/*----------------------------------Theme_04----------------------------------*/
+/*----------------------------------Theme_05----------------------------------*/
