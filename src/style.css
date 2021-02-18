@@ -50,29 +50,32 @@ body {
 
 /*----------------------------------Theme_01----------------------------------*/
 
-
 .color_texto {
     color: #1FA0EB;
 }
+
 .FONDO {
     background: #1FA0EB;
 }
+
 .themes_01_ONDAS {
     z-index: -1;
     opacity: 0.1;
     position: absolute;
     top: 1850px;
     width: 100%;
-} 
+}
+
 .BANNER {
     opacity: 0.6;
 }
+
 .TEXTO {
     z-index: 1;
     position: absolute;
     top: 450px;
     width: 100%;
-} 
+}
 
 /*----------------------------------Theme_02----------------------------------*/
 
@@ -140,7 +143,6 @@ body {
     }
 }
 
-
 /*----------------------------------Theme_03----------------------------------*/
 
 .theme_03_boton_contacto {
@@ -153,7 +155,7 @@ body {
     outline: none;
     height: 40px;
     font-weight: 600;
-    background: linear-gradient(198deg,#F0B92C, #F4DE17);
+    background: linear-gradient(198deg, #F0B92C, #F4DE17);
 }
 
 .themes_03_boton_llamada {
@@ -167,25 +169,24 @@ body {
     height: 47px;
     font-size: 16px;
     font-weight: 600;
-    background: linear-gradient(198deg,#F0B92C, #F4DE17);
+    background: linear-gradient(198deg, #F0B92C, #F4DE17);
 }
 
 .SECTION_4 {
     background: #F0B92C;
 }
 
-
 .color_01 {
     color: #F4DE17;
 }
+
 .color_02 {
     color: #F0B92C;
 }
 
 /*----------------------------------Theme_04----------------------------------*/
 
-.themes_04_boton_contacto,
-.themes_04_boton_nosotros {
+.themes_04_boton_contacto, .themes_04_boton_nosotros {
     width: 130px;
     border-radius: 5px;
     color: white;
@@ -196,15 +197,46 @@ body {
     height: 40px;
     font-size: 16px;
     font-weight: 600;
-    background: linear-gradient(198deg,#F13300, #F59639
-    );
+    background: linear-gradient(198deg, #F13300, #F59639);
 }
 
 /*----------------------------------Theme_05----------------------------------*/
 
+/* Rectangle 18 */
+
+.boton_llamanos {
+    position: absolute;
+    width: 736px;
+    height: 288px;
+    background: #E40000;
+    border-radius: 20px;
+}
+
+/* Vector */
+
+.boton_telefono {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: #FFFFFF;
+}
+
+/* Llámanos 014507180 */
+
+.boton_texto {
+    position: absolute;
+    width: 426px;
+    height: 173px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 94px;
+    text-align: center;
+    color: #FFFFFF;
+}
 
 /*----------------------SWIPERJS--------------------------*/
-
 
 /*
 html,
@@ -224,47 +256,46 @@ body {
 */
 
 .swiper-container {
-  width: 100%;
-  height: 100%;
+    width: 100%;
+    height: 100%;
 }
 
 .swiper-slide {
-  text-align: center;
-  font-size: 18px;
-  background: #fff;
-
-  /* Center slide text vertically */
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
 }
-
 
 /*----------------------WP_BUTTON--------------------------*/
-.float{
-    position:fixed;
-    width:60px;
-    height:60px;
-    bottom:40px;
-    right:40px;
-    background-color:#27ae60;
-    color:#FFF;
-    border-radius:80px;
-    text-align:center;
-    font-size:30px;
+
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #27ae60;
+    color: #FFF;
+    border-radius: 80px;
+    text-align: center;
+    font-size: 30px;
     box-shadow: 2px 2px 3px #999;
-    z-index:100;
+    z-index: 100;
 }
- 
-.my-float{
-    margin-top:16px;
+
+.my-float {
+    margin-top: 16px;
 }
