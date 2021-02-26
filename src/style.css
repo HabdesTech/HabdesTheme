@@ -142,7 +142,23 @@ body {
         height: 100%;
     }
 }
-
+@media screen and (max-width: 990px) {
+    .themes_02_logo {
+        margin-left: 7%;
+    }
+    .text_banner {
+        z-index: -10;
+        position: absolute;
+        margin-top: 25%;
+    }
+    .style_text_banner {
+        font-size: 50px;
+        font-family: 'Fredoka One', cursive;
+    }
+    .theme_02_banner_imagen {
+        height: 100%;
+    }
+}
 /*----------------------------------Theme_03----------------------------------*/
 
 .theme_03_boton_contacto {
@@ -246,6 +262,8 @@ body {
   .carousel-inner img {
     height: 300px;
   }
+
+
 /*----------------------SWIPERJS--------------------------*/
 
 /*
