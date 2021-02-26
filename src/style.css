@@ -124,7 +124,7 @@ body {
     font-family: 'Fredoka One', cursive;
 }
 
-.banner_imagen {
+.theme_02_banner_imagen {
     height: 280px;
 }
 
@@ -138,7 +138,7 @@ body {
         font-size: 50px;
         font-family: 'Fredoka One', cursive;
     }
-    .banner_imagen {
+    .theme_02_banner_imagen {
         height: 100%;
     }
 }
