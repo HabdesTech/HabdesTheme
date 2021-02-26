@@ -48,34 +48,7 @@ body {
     background: linear-gradient(98deg, rgb(48, 165, 102), rgb(0, 141, 135));
 }
 
-/*----------------------------------Theme_01----------------------------------*/
 
-.color_texto {
-    color: #1FA0EB;
-}
-
-.FONDO {
-    background: #1FA0EB;
-}
-
-.themes_01_ONDAS {
-    z-index: -1;
-    opacity: 0.1;
-    position: absolute;
-    top: 1850px;
-    width: 100%;
-}
-
-.BANNER {
-    opacity: 0.6;
-}
-
-.TEXTO {
-    z-index: 1;
-    position: absolute;
-    top: 450px;
-    width: 100%;
-}
 
 /*----------------------------------Theme_02----------------------------------*/
 
@@ -159,62 +132,8 @@ body {
         height: 100%;
     }
 }
-/*----------------------------------Theme_03----------------------------------*/
 
-.theme_03_boton_contacto {
-    width: 130px;
-    border-radius: 25px;
-    color: white;
-    border: none;
-    cursor: none;
-    transition: all 0.2s ease-in 0s;
-    outline: none;
-    height: 40px;
-    font-weight: 600;
-    background: linear-gradient(198deg, #F0B92C, #F4DE17);
-}
 
-.themes_03_boton_llamada {
-    width: 250px;
-    border-radius: 25px;
-    color: white;
-    border: none;
-    cursor: none;
-    transition: all 0.2s ease-in 0s;
-    outline: none;
-    height: 47px;
-    font-size: 16px;
-    font-weight: 600;
-    background: linear-gradient(198deg, #F0B92C, #F4DE17);
-}
-
-.SECTION_4 {
-    background: #F0B92C;
-}
-
-.color_01 {
-    color: #F4DE17;
-}
-
-.color_02 {
-    color: #F0B92C;
-}
-
-/*----------------------------------Theme_04----------------------------------*/
-
-.themes_04_boton_contacto, .themes_04_boton_nosotros {
-    width: 130px;
-    border-radius: 5px;
-    color: white;
-    border: none;
-    cursor: none;
-    transition: all 0.2s ease-in 0s;
-    outline: none;
-    height: 40px;
-    font-size: 16px;
-    font-weight: 600;
-    background: linear-gradient(198deg, #F13300, #F59639);
-}
 
 /*----------------------------------Theme_05----------------------------------*/
 

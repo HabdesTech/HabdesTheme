@@ -1,0 +1,15 @@
+/*----------------------------------Theme_04----------------------------------*/
+
+.themes_04_boton_contacto, .themes_04_boton_nosotros {
+    width: 130px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: none;
+    transition: all 0.2s ease-in 0s;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    background: linear-gradient(198deg, #F13300, #F59639);
+}

@@ -1,0 +1,49 @@
+/*----------------------------------Theme_01----------------------------------*/
+
+.color_texto {
+    color: #1FA0EB;
+}
+
+.FONDO {
+    background: #1FA0EB;
+}
+
+.themes_01_ONDAS {
+    z-index: -1;
+    opacity: 0.1;
+    position: absolute;
+    top: 1850px;
+    width: 100%;
+}
+
+.BANNER {
+    opacity: 0.6;
+}
+
+.TEXTO {
+    z-index: 1;
+    position: absolute;
+    top: 450px;
+    width: 100%;
+}
+
+/*----------------------WP_BUTTON--------------------------*/
+
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #27ae60;
+    color: #FFF;
+    border-radius: 80px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.my-float {
+    margin-top: 16px;
+}
